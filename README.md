@@ -42,7 +42,7 @@ web site</a>:
 * <b>Subset:</b> Only data from the dates 2007-02-01 and 2007-02-02 was used. 
 
 
-## Making Plots
+### Making Plots
 
 The scripts read in the data from the zipfile's URL, clean and subset the data, and plot the required information
 to .png. The PNG files plotted are shown below:
